@@ -1,7 +1,7 @@
 # Mutode [![npm](https://img.shields.io/npm/v/mutode.svg)](http://npmjs.com/package/mutode) [![npm](https://img.shields.io/npm/dm/mutode.svg)](http://npmjs.com/package/mutode) [![npm](https://img.shields.io/npm/l/mutode.svg)](LICENSE)
 
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![Build Status](https://travis-ci.org/TheSoftwareDesignLab/mutode.svg?branch=master)](https://travis-ci.org/TheSoftwareDesignLab/mutode) [![Build status](https://ci.appveyor.com/api/projects/status/ulp8cq3aq2bng6he/branch/master?svg=true)](https://ci.appveyor.com/project/DiegoRBaquero/mutode/branch/master)
- [![Coverage Status](https://coveralls.io/repos/github/TheSoftwareDesignLab/mutode/badge.svg?branch=master)](https://coveralls.io/github/TheSoftwareDesignLab/mutode?branch=master)
+ [![Coverage Status](https://coveralls.io/repos/github/TheSoftwareDesignLab/mutode/badge.svg?branch=master)](https://coveralls.io/github/TheSoftwareDesignLab/mutode?branch=master) [![Greenkeeper badge](https://badges.greenkeeper.io/TheSoftwareDesignLab/mutode.svg)](https://greenkeeper.io/)
 
 Mutation testing for Node.js and JavaScript.
 
