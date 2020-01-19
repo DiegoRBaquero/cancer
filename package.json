@@ -43,7 +43,7 @@
     "yargs": "15.0.2"
   },
   "devDependencies": {
-    "ava": "0.25.0",
+    "ava": "3.0.0",
     "coveralls": "3.0.9",
     "minami": "^1.2.3",
     "nyc": "14.1.1",
