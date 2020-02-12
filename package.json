@@ -36,7 +36,7 @@
     "escape-string-regexp": "2.0.0",
     "globby": "10.0.1",
     "mkdirp": "^0.5.1",
-    "pretty-ms": "5.1.0",
+    "pretty-ms": "6.0.0",
     "recursive-copy": "2.0.10",
     "strip-ansi": "6.0.0",
     "terminate": "2.1.2",
