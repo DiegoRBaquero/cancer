@@ -40,7 +40,7 @@
     "recursive-copy": "2.0.10",
     "strip-ansi": "6.0.0",
     "terminate": "2.1.2",
-    "yargs": "15.0.2"
+    "yargs": "15.2.0"
   },
   "devDependencies": {
     "ava": "0.25.0",
